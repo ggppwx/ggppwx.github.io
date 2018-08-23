@@ -1,3 +1,3 @@
 publish:
-	python ./publish.sh -c ./publish.ini
+	python3 ./publish.sh -c ./publish.ini
 	
