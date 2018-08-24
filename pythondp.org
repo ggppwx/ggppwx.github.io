@@ -1,0 +1,17 @@
+#+TITLE: python design pattern
+* reference
+- https://github.com/faif/python-patterns
+
+* creational pattern 
+** borg
+** factory_method 
+** generator 
+** lazy evaluation
+
+* structure pattern
+
+* behavior pattern 
+
+
+
+
